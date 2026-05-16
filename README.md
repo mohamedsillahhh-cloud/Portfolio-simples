@@ -112,25 +112,10 @@ O site foi otimizado para:
 
 ---
 
-## 📧 Contacto
-
-Tem perguntas ou sugestões? Entre em contacto connosco:
-
-- **Mohamed**: sillahmohamed800@gmail.com
-- **Erik**: erik@email.com
-
----
-
 ## 📄 Licença
 
 Este projeto é de código aberto e disponível sob a licença MIT.
 
 ---
 
-<div align="center">
 
-**Made with ❤️ by Mohamed & Erik**
-
-⭐ Se gostou, deixe uma star no repositório!
-
-</div>
